@@ -3,7 +3,9 @@
 A custom transfer agent for [`git-lfs`](https://git-lfs.github.com/)
 that uses `scp` to transfer files.
 
-It enables to use `git-lfs` even if you can not use http/https but ssh
+This is a self-contained bash script designed for seamless
+installation, requiring no prerequisites with the exception of the
+external command `scp.` It enables to use `git-lfs` even if you can not use http/https but ssh
 only.
 
 
@@ -16,10 +18,6 @@ Ensure that the script has the necessary permissions to be executed.
 ``` sh
 chmod +x git-lfs-agent-scp.sh
 ```
-
-Note: This is a self-contained bash script designed for seamless
-installation, requiring no prerequisites with the exception of the
-external command `scp.`
 
 
 # Usage #
