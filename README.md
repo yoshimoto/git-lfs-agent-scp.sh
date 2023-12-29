@@ -1,4 +1,4 @@
-# git-lfs-agent-scp.sh
+# git-lfs-agent-scp-bash
 
 A custom transfer agent for [`git-lfs`](https://git-lfs.github.com/)
 that uses `scp` to transfer files.
