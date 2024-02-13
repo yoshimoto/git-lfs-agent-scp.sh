@@ -2,9 +2,9 @@
 
 Lightweight bash script for [`Git Large File Storage (LFS)`](https://git-lfs.github.com/) over SSH.
 
-This is a self-contained bash script designed for seamless
-installation, requiring no prerequisites. It enables to use `git-lfs` even if you can not use http/https but ssh
-only.
+This is a self-contained bash script designed for seamless installation, requiring no prerequisites. 
+
+It enables to use `git-lfs` even if you can not use http/https but ssh only.
 
 
 # Install #
