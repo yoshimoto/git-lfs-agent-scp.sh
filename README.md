@@ -1,11 +1,9 @@
-# git-lfs-agent-scp-bash
+# git-lfs-agent-scp.sh
 
-A custom transfer agent for [`git-lfs`](https://git-lfs.github.com/)
-that uses `scp` to transfer files.
+Lightweight bash script for [`Git Large File Storage (LFS)`](https://git-lfs.github.com/) over SSH.
 
 This is a self-contained bash script designed for seamless
-installation, requiring no prerequisites with the exception of the
-external command `scp.` It enables to use `git-lfs` even if you can not use http/https but ssh
+installation, requiring no prerequisites. It enables to use `git-lfs` even if you can not use http/https but ssh
 only.
 
 
