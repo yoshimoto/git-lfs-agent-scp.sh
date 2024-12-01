@@ -45,7 +45,7 @@ Replace `<command>` with operations like pull or push.
 This will provide additional information to help diagnose and resolve problems.
 
 
-# Acknowledgment #
+# Acknowledgments #
 
 This script was inspired by the following open source
 projects. Special thanks for their invaluable contributions!!
